@@ -1,2 +1,5 @@
 */*.vcd
 */*.out
+*/*.vvp
+.vscode*
+*/simulation
